@@ -1,6 +1,3 @@
-By using any of my content, you agree to our terms & conditions
----
-
 Inst — Technical Assistant Specification (Canonical)
 
 Overview
